@@ -3,6 +3,7 @@ add transparent text overlay the jpg. 给图片打文字水印，支持角度、
 
 # Sample Images
 https://raw.githubusercontent.com/jingle1267/watermark/master/output/weixiaobao.jpg
+<img style="width:450px;height:450px" src="https://raw.githubusercontent.com/jingle1267/watermark/master/output/weixiaobao.jpg"  alt="真棒" align=center />
 
 # Similar Repo
 https://github.com/jingle1267/watermark
